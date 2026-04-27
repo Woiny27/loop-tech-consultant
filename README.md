@@ -1,6 +1,6 @@
 # Loop Tech Consultant
 
-**Empowering Ethical Innovation in the Digital Age**
+loop-tech-consultant is an AI consulting company specializing in delivering cutting-edge software engineering solutions. We help businesses leverage artificial intelligence, machine learning, and automation to accelerate growth and innovation.
 
 ## About Us
 
