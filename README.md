@@ -44,13 +44,3 @@ With more than ten years in the IT software industry, Woiny T. envisioned a cons
 
 Ready to innovate responsibly?  
 Reach out to discuss consulting, collaborations, or specialized training for your organization.
-
-## Reviews & Reputation
-
-- See what people are saying about us on [Yelp](https://www.yelp.com/biz/loop-tech-consultant-austin?utm_source=ishare).
-- Connect with us on [LinkedIn](https://www.linkedin.com/company/106838293/admin/dashboard/).
-
----
-
-> “We believe the future of technology is one where innovation and responsibility move forward together.”  
-> **— Woiny T., Founder**
